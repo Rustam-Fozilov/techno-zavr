@@ -1,4 +1,4 @@
-# store
+# E-commerce techno-zavr
 
 ## Project setup
 ```
